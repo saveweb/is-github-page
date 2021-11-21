@@ -4,9 +4,11 @@ import urllib.request
 import urllib.parse
 num = 1
 
-
-githubip = urllib.request.urlopen('https://api.github.com/meta')
-githubip = str(githubip.read())
+try:
+  githubip = urllib.request.urlopen('https://api.github.com/meta')
+  githubip = str(githubip.read())
+except:
+  print('无法访问GitHub-API，请检查网络。')
 
 try:
   os.system("wget https://github.com/timqian/chinese-independent-blogs/raw/master/blogs-original.csv -O ./blogs-original.csv")
@@ -32,7 +34,7 @@ else:
         isfind = githubip.find(ip_head)
         if isfind != -1 :
           f.write(domain+"\n")
-          print(domain+" is on GH-page!")
+          print(domain+" 是GH-Pages!")
       except:
         continue
   os.system("rm blogs-original.csv -rf")
