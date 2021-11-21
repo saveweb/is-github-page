@@ -18,6 +18,7 @@ blog.xiayf.cn
 jiongks.name
 blog.devtang.com
 colobu.com
+feihu.me
 blog.sunnyxx.com
 xiangwangfeng.com
 wwj718.github.io
@@ -35,7 +36,10 @@ blog.xulihang.me
 article.mebtte.com
 blog.joouis.com
 blog.hanschen.site
+iphysresearch.github.io
 desvl.xyz
+lucifer.ren
+anran758.github.io
 jyzhu.top
 zofun.github.io
 gyl-coder.top
@@ -74,6 +78,7 @@ jw1.dev
 jartto.wang
 knightyun.github.io
 www.yangzhiping.com
+www.guyu.me
 lulalap.com
 chinomars.github.io
 weirane.github.io
@@ -86,10 +91,13 @@ tomotoes.com
 thewanderingpotato.github.io
 emuqi.github.io
 ai.renyuzhuo.cn
+jayzangwill.github.io
 yanhang.me
 frost-lee.github.io
 kerminate.me
 blog.chungzh.cn
+lineuman.github.io
+zsqk.github.io
 blog.gavln.com
 twistoy.com
 cyril3.github.io
@@ -105,11 +113,14 @@ lhymwm.github.io
 ngzhio.github.io
 painso.com
 diego.plus
+mountaye.github.io
 kubesphereio.com
 geekplayers.com
+ambroseren.github.io
 tingfei.space
 bubuzou.com
 jasonkayzk.github.io
+muyunyun.cn
 www.androidperformance.com
 timemachine.icu
 blog.kuangjux.top
@@ -151,6 +162,7 @@ itgoyo.github.io
 www.imaegoo.com
 gtdstudy.com
 www.jiayuehua.com
+github.com
 ilovey.live
 www.linchangyu.com
 www.puronglong.com
