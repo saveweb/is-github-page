@@ -1,4 +1,5 @@
 shrekshao.github.io
+zddhub.com
 dfine.tech
 vzardlloo.github.io
 rowkey.cn
@@ -12,7 +13,6 @@ www.barretlee.com
 www.jeffjade.com
 wsgzao.github.io
 vivaxyblog.github.io
-blog.forecho.com
 www.yinwang.org
 blog.xiayf.cn
 jiongks.name
@@ -33,7 +33,6 @@ thinkhard.tech
 charlesliuyx.github.io
 blog.xulihang.me
 102no.com
-article.mebtte.com
 blog.joouis.com
 blog.hanschen.site
 iphysresearch.github.io
@@ -81,6 +80,7 @@ www.yangzhiping.com
 www.guyu.me
 lulalap.com
 chinomars.github.io
+www.meirenji.info
 weirane.github.io
 blog.joway.io
 mabbs.github.io
@@ -166,3 +166,4 @@ github.com
 ilovey.live
 www.linchangyu.com
 www.puronglong.com
+www.packetmania.net
