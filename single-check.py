@@ -1,26 +1,17 @@
 import socket
-import urllib.request
-import urllib.parse
+import os
 
-try:
-  githubip = urllib.request.urlopen('https://api.github.com/meta')
-  githubip = str(githubip.read())
-except:
-  print('无法访问GitHub-API，请检查网络。')
-else:
-    print('请输入域名/链接')
-    line = input()
-    line = line.replace(" ", "")
-    res = urllib.parse.urlparse(line)
-    domain = res.netloc
-    try:
-      ip = socket.gethostbyname(domain)
-      ip = ip.split('.')
-      ip_head = ip[0]+'.'+ip[1]+'.'+ip[2]
-      isfind = githubip.find(ip_head)
-      if isfind != -1 :
-        print(domain+" 是GH-Pages!")
-      else:
-        print(domain+" 不是GH-Pages!")
-    except:
-      print('错误: DNS无法解析或其它问题。')
+print('Please input domain:)
+domain = input()
+target_host = domain
+target_port = 80
+client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+client.connect((target_host,target_port))
+request = "GET / HTTP/1.1\r\nHost:%s\r\n\r\n" % target_host
+client.send(request.encode())
+response = client.recv(4096)  
+http_response = repr(response)
+http_response_len = len(http_response)
+if str(response).find('Server: GitHub.com') != -1 :
+  f.write(domain+"\n")
+  print(domain+" is on GH-Pages!")

@@ -1,14 +1,7 @@
 import socket
 import os
-import urllib.request
 import urllib.parse
 num = 1
-
-try:
-  githubip = urllib.request.urlopen('https://api.github.com/meta')
-  githubip = str(githubip.read())
-except:
-  print('无法访问GitHub-API，请检查网络。')
 
 try:
   os.system("wget https://github.com/timqian/chinese-independent-blogs/raw/master/blogs-original.csv -O ./blogs-original.csv")
@@ -28,13 +21,19 @@ else:
       res = urllib.parse.urlparse(line[1])
       domain = res.netloc
       try:
-        ip = socket.gethostbyname(domain)
-        ip = ip.split('.')
-        ip_head = ip[0]+'.'+ip[1]+'.'+ip[2]
-        isfind = githubip.find(ip_head)
-        if isfind != -1 :
+        target_host = domain
+        target_port = 80
+        client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        client.connect((target_host,target_port))
+        request = "GET / HTTP/1.1\r\nHost:%s\r\n\r\n" % target_host
+        client.send(request.encode())
+        response = client.recv(4096)  
+        http_response = repr(response)
+        http_response_len = len(http_response)
+        if str(response).find('Server: GitHub.com') != -1 :
           f.write(domain+"\n")
-          print(domain+" 是GH-Pages!")
+          print(domain+" is on GH-Pages!")
       except:
         continue
-  os.system("rm blogs-original.csv -rf")
+
+os.system("rm blogs-original.csv -rf")
