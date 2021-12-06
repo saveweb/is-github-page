@@ -127,7 +127,6 @@ blog.kuangjux.top
 lyunvy.tk
 fantalovelife.club
 saulnoble.github.io
-wushuo.ink
 robotkang.cc
 zhurongshuo.com
 wangjiezhe.com
@@ -169,3 +168,6 @@ www.puronglong.com
 www.packetmania.net
 lxhyl.cn
 shellc.cn
+fengmengzhao.github.io
+blog.lzwi.fun
+www.izhaoo.com
