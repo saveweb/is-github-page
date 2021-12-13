@@ -159,6 +159,7 @@ dianjiaogit.github.io
 www.zhukang.tech
 itgoyo.github.io
 www.imaegoo.com
+eallion.com
 gtdstudy.com
 www.jiayuehua.com
 github.com
@@ -171,3 +172,4 @@ shellc.cn
 fengmengzhao.github.io
 blog.lzwi.fun
 www.izhaoo.com
+blog.ypingcn.com
