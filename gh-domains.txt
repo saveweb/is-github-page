@@ -52,6 +52,7 @@ iphyer.github.io
 wukaikai.tech
 jiayuanzhang.com
 www.965.one
+www.zsythink.net
 www.taoweng.site
 zdyxry.github.io
 shen.bioitee.com
@@ -78,7 +79,6 @@ jartto.wang
 knightyun.github.io
 www.yangzhiping.com
 www.guyu.me
-lulalap.com
 chinomars.github.io
 www.meirenji.info
 weirane.github.io
@@ -127,6 +127,7 @@ blog.kuangjux.top
 lyunvy.tk
 fantalovelife.club
 saulnoble.github.io
+wushuo.me
 robotkang.cc
 zhurongshuo.com
 wangjiezhe.com
