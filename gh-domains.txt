@@ -74,7 +74,6 @@ blog.mikeoperfect.com
 notlsd.github.io
 beijiu.ink
 seis-jun.xyz
-jw1.dev
 jartto.wang
 knightyun.github.io
 www.yangzhiping.com
@@ -107,7 +106,6 @@ luyuhuang.github.io
 blog.xiaket.org
 jingyig.com
 leonson.me
-blog.yangyk.com
 yuukoamamiya.github.io
 lhymwm.github.io
 ngzhio.github.io
@@ -134,7 +132,6 @@ phuker.github.io
 cyberve.top
 zhangyet.github.io
 aidaip.github.io
-blog.murphyyi.com
 blog.whuzfb.cn
 zivlog.io
 frankorz.com
