@@ -74,6 +74,7 @@ blog.mikeoperfect.com
 notlsd.github.io
 beijiu.ink
 seis-jun.xyz
+jw1.dev
 jartto.wang
 knightyun.github.io
 www.yangzhiping.com
@@ -120,8 +121,10 @@ bubuzou.com
 jasonkayzk.github.io
 muyunyun.cn
 www.androidperformance.com
+blog.mayandev.top
 timemachine.icu
 blog.kuangjux.top
+blog.lyunvy.top
 fantalovelife.club
 saulnoble.github.io
 wushuo.me
