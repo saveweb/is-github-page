@@ -110,7 +110,6 @@ leonson.me
 yuukoamamiya.github.io
 lhymwm.github.io
 ngzhio.github.io
-painso.com
 diego.plus
 mountaye.github.io
 kubesphereio.com
@@ -124,7 +123,6 @@ www.androidperformance.com
 blog.mayandev.top
 timemachine.icu
 blog.kuangjux.top
-blog.lyunvy.top
 fantalovelife.club
 saulnoble.github.io
 wushuo.me
