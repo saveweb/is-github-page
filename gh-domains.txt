@@ -58,7 +58,6 @@ zdyxry.github.io
 shen.bioitee.com
 blog.guowenfh.com
 huiweishijie.com
-www.itrhx.com
 xiaophy.com
 michael728.github.io
 fengxu.ink
@@ -141,7 +140,7 @@ zeqiang.fun
 blog.jinreal.com
 mengtnt.com
 surager.pub
-lumitytw.github.io
+iaarwu.github.io
 vim0.com
 sanzo.top
 blog.quarticcat.com
@@ -175,3 +174,4 @@ jdhao.github.io
 jtr109.com
 lifeodyssey.github.io
 vfvong.blog
+xieguanglei.github.io
