@@ -8,7 +8,6 @@ try:
   githubip = str(githubip.read())
   lines = urllib.request.urlopen('https://github.com/timqian/chinese-independent-blogs/raw/master/blogs-original.csv')
   lines = lines.read().decode().splitlines()
-  print(lines)
 except:
   print('无法访问 Github，请检查网络。')
 
