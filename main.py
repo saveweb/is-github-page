@@ -6,18 +6,12 @@ num = 1
 try:
   githubip = urllib.request.urlopen('https://api.github.com/meta')
   githubip = str(githubip.read())
-except:
-  print('无法访问GitHub-API，请检查网络。')
-
-try:
   lines = urllib.request.urlopen('https://github.com/timqian/chinese-independent-blogs/raw/master/blogs-original.csv')
   lines = str(lines.read())
+  lines = lines.splitlines()
 except:
-  print("")
+  print('无法访问GitHub，请检查网络。')
 else:
-  with open('blogs-original.csv', 'r') as f:
-    lines = f.read()
-    lines = lines.splitlines()
   with open('gh-domains.txt', 'w') as f:
     for line in lines[1:]:
       print(num)
