@@ -1,5 +1,4 @@
 import socket
-import os
 import urllib.request
 import urllib.parse
 num = 1
@@ -11,11 +10,10 @@ except:
   print('无法访问GitHub-API，请检查网络。')
 
 try:
-  os.system("wget https://github.com/timqian/chinese-independent-blogs/raw/master/blogs-original.csv -O ./blogs-original.csv")
-  with open('blogs-original.csv', 'r') as f:
-   lines = f.read()
+  lines = urllib.request.urlopen('https://github.com/timqian/chinese-independent-blogs/raw/master/blogs-original.csv')
+  lines = str(lines.read())
 except:
-  print("您似乎没有安装wget，请手动下载文件 https://github.com/timqian/chinese-independent-blogs/raw/master/blogs-original.csv 并放至当前目录")
+  print("")
 else:
   with open('blogs-original.csv', 'r') as f:
     lines = f.read()
@@ -37,4 +35,3 @@ else:
           print(domain+" 是GH-Pages!")
       except:
         continue
-  os.system("rm blogs-original.csv -rf")
