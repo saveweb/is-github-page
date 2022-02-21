@@ -104,7 +104,6 @@ mutoo.im
 ddadaal.me
 luyuhuang.github.io
 blog.xiaket.org
-jingyig.com
 leonson.me
 yuukoamamiya.github.io
 lhymwm.github.io
@@ -179,3 +178,6 @@ xieguanglei.github.io
 xuetengfei.github.io
 leimao.github.io
 bninecoding.com
+muyesq.cn
+zahui.fan
+conge.github.io
