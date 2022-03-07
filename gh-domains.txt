@@ -134,7 +134,6 @@ cyberve.top
 zhangyet.github.io
 aidaip.github.io
 blog.whuzfb.cn
-zivlog.io
 frankorz.com
 noionion.top
 zeqiang.fun
@@ -184,3 +183,5 @@ muyesq.cn
 zahui.fan
 conge.github.io
 gh0st.cn
+frangezone.github.io
+catcoding.me
