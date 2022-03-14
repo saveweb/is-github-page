@@ -157,7 +157,6 @@ dianjiaogit.github.io
 www.zhukang.tech
 itgoyo.github.io
 www.imaegoo.com
-eallion.com
 gtdstudy.com
 www.jiayuehua.com
 github.com
@@ -185,3 +184,4 @@ conge.github.io
 gh0st.cn
 frangezone.github.io
 catcoding.me
+hdgcs.com
