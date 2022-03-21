@@ -58,6 +58,7 @@ zdyxry.github.io
 shen.bioitee.com
 blog.guowenfh.com
 huiweishijie.com
+www.itbob.cn
 xiaophy.com
 michael728.github.io
 fengxu.ink
@@ -119,6 +120,7 @@ tingfei.space
 bubuzou.com
 jasonkayzk.github.io
 muyunyun.cn
+lihui.net
 www.androidperformance.com
 blog.mayandev.top
 timemachine.icu
@@ -185,3 +187,4 @@ gh0st.cn
 frangezone.github.io
 catcoding.me
 hdgcs.com
+nickchenyx.github.io
