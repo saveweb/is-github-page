@@ -120,7 +120,6 @@ tingfei.space
 bubuzou.com
 jasonkayzk.github.io
 muyunyun.cn
-lihui.net
 www.androidperformance.com
 blog.mayandev.top
 timemachine.icu
@@ -188,3 +187,4 @@ frangezone.github.io
 catcoding.me
 hdgcs.com
 nickchenyx.github.io
+blog.spacetimee.xyz
