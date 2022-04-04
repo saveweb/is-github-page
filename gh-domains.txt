@@ -106,6 +106,7 @@ mutoo.im
 ddadaal.me
 luyuhuang.github.io
 blog.xiaket.org
+jingyig01.github.io
 leonson.me
 yuukoamamiya.github.io
 lhymwm.github.io
@@ -131,7 +132,6 @@ robotkang.cc
 zhurongshuo.com
 wangjiezhe.com
 phuker.github.io
-cyberve.top
 zhangyet.github.io
 aidaip.github.io
 blog.whuzfb.cn
