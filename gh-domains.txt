@@ -54,6 +54,7 @@ jiayuanzhang.com
 www.965.one
 www.zsythink.net
 www.taoweng.site
+www.hwdef.org
 zdyxry.github.io
 shen.bioitee.com
 blog.guowenfh.com
@@ -68,7 +69,6 @@ mazhuang.org
 hijiangtao.github.io
 yuechuanx.top
 z.arlmy.me
-typeblog.net
 jhuo.ca
 blog.mikeoperfect.com
 notlsd.github.io
@@ -137,7 +137,6 @@ aidaip.github.io
 blog.whuzfb.cn
 frankorz.com
 noionion.top
-zeqiang.fun
 blog.jinreal.com
 mengtnt.com
 surager.pub
