@@ -41,7 +41,6 @@ lucifer.ren
 anran758.github.io
 jyzhu.top
 zofun.github.io
-gyl-coder.top
 amonxu.com
 www.vincentqin.tech
 blog.hbsun.top
@@ -59,7 +58,6 @@ zdyxry.github.io
 shen.bioitee.com
 blog.guowenfh.com
 huiweishijie.com
-www.itbob.cn
 xiaophy.com
 michael728.github.io
 fengxu.ink
@@ -137,6 +135,7 @@ aidaip.github.io
 blog.whuzfb.cn
 frankorz.com
 noionion.top
+zeqiang.fun
 blog.jinreal.com
 mengtnt.com
 surager.pub
@@ -189,3 +188,5 @@ hdgcs.com
 nickchenyx.github.io
 blog.spacetimee.xyz
 shiina18.github.io
+lishuangquan.cn
+megamu.icu
