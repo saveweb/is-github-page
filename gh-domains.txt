@@ -87,7 +87,6 @@ blog.vvzero.com
 sund.site
 tomotoes.com
 thewanderingpotato.github.io
-wineso.me
 emuqi.github.io
 ai.renyuzhuo.cn
 jayzangwill.github.io
@@ -163,7 +162,6 @@ ilovey.live
 www.linchangyu.com
 www.puronglong.com
 www.packetmania.net
-lxhyl.cn
 shellc.cn
 fengmengzhao.github.io
 blog.lzwi.fun
