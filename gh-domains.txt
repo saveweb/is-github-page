@@ -29,7 +29,6 @@ jalan.space
 nicksxs.me
 www.capallen.top
 alxddh.github.io
-thinkhard.tech
 charlesliuyx.github.io
 blog.xulihang.me
 102no.com
@@ -128,6 +127,7 @@ robotkang.cc
 zhurongshuo.com
 wangjiezhe.com
 phuker.github.io
+bouquetrender.github.io
 zhangyet.github.io
 aidaip.github.io
 blog.whuzfb.cn
@@ -167,6 +167,7 @@ blog.lzwi.fun
 www.izhaoo.com
 blog.ypingcn.com
 jdhao.github.io
+zhul.in
 jtr109.com
 lifeodyssey.github.io
 vfvong.blog
