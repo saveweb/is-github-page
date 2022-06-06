@@ -48,7 +48,6 @@ objcoding.com
 claude-ray.github.io
 iphyer.github.io
 wukaikai.tech
-jiayuanzhang.com
 www.965.one
 www.zsythink.net
 www.taoweng.site
@@ -188,10 +187,12 @@ blog.spacetimee.xyz
 shiina18.github.io
 lishuangquan.cn
 megamu.icu
-hao.ink
 liupj.top
 vra.github.io
 bestxtools.github.io
 hukeqing.github.io
 www.imalun.com
 pinkr1ver.com
+brightliao.com
+allanware.github.io
+ursb.me
