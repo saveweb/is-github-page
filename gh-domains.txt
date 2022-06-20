@@ -152,6 +152,7 @@ marwin.cn
 acmic.top
 dianjiaogit.github.io
 www.zhukang.tech
+nojsja.github.io
 itgoyo.github.io
 www.imaegoo.com
 gtdstudy.com
@@ -199,3 +200,5 @@ brightliao.com
 allanware.github.io
 ursb.me
 dev-coco.github.io
+ethan-phu.github.io
+www.imalun.com
