@@ -24,7 +24,6 @@ xiangwangfeng.com
 wwj718.github.io
 blog.est.im
 jaredtao.github.io
-xiang578.com
 jalan.space
 nicksxs.me
 www.capallen.top
@@ -51,7 +50,6 @@ wukaikai.tech
 jiayuanzhang.com
 www.965.one
 www.zsythink.net
-www.taoweng.site
 www.hwdef.org
 zdyxry.github.io
 shen.bioitee.com
@@ -173,7 +171,6 @@ vfvong.blog
 xieguanglei.github.io
 xuetengfei.github.io
 leimao.github.io
-bninecoding.com
 muyesq.cn
 zahui.fan
 conge.github.io
@@ -201,3 +198,6 @@ ursb.me
 dev-coco.github.io
 ethan-phu.github.io
 www.imalun.com
+blog.azhubaby.com
+face2ai.com
+jerkwin.github.io
