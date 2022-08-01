@@ -24,13 +24,13 @@ xiangwangfeng.com
 wwj718.github.io
 blog.est.im
 jaredtao.github.io
-jalan.space
 nicksxs.me
 www.capallen.top
 alxddh.github.io
 charlesliuyx.github.io
 blog.xulihang.me
 102no.com
+mebtte.com
 blog.joouis.com
 blog.hanschen.site
 iphysresearch.github.io
@@ -94,7 +94,6 @@ lineuman.github.io
 zsqk.github.io
 blog.gavln.com
 twistoy.com
-www.feidaoboke.com
 cyril3.github.io
 mutoo.im
 ddadaal.me
@@ -148,7 +147,6 @@ f2h2h1.github.io
 www.4async.com
 aemoncao.github.io
 marwin.cn
-acmic.top
 dianjiaogit.github.io
 www.zhukang.tech
 nojsja.github.io
@@ -165,6 +163,7 @@ fengmengzhao.github.io
 blog.lzwi.fun
 www.izhaoo.com
 jdhao.github.io
+icys.top
 zhul.in
 jtr109.com
 lifeodyssey.github.io
@@ -204,3 +203,4 @@ jerkwin.github.io
 draugus.github.io
 hetaoblog.site
 hehysh.github.io
+coffeelize.top
