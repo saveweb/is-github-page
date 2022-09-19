@@ -57,6 +57,7 @@ zdyxry.github.io
 shen.bioitee.com
 blog.guowenfh.com
 huiweishijie.com
+www.itbob.cn
 xiaophy.com
 michael728.github.io
 fengxu.ink
@@ -218,3 +219,5 @@ www.zhangningle.top
 glooow1024.github.io
 emergencyexit.xyz
 slbyml.github.io
+finisky.github.io
+blog.liugezhou.online
