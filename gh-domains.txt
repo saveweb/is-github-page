@@ -1,6 +1,7 @@
 shrekshao.github.io
 zddhub.com
 dfine.tech
+droidyue.com
 vzardlloo.github.io
 rowkey.cn
 blog.lui8.cn
@@ -20,7 +21,6 @@ blog.devtang.com
 colobu.com
 feihu.me
 blog.sunnyxx.com
-xiangwangfeng.com
 wwj718.github.io
 blog.est.im
 jaredtao.github.io
