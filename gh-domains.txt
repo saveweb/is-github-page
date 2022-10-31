@@ -55,7 +55,6 @@ zdyxry.github.io
 shen.bioitee.com
 blog.guowenfh.com
 huiweishijie.com
-www.itbob.cn
 xiaophy.com
 michael728.github.io
 www.dosk.win
@@ -78,7 +77,6 @@ www.yangzhiping.com
 www.guyu.me
 blog.skrskrskrskr.com
 chinomars.github.io
-www.meirenji.info
 weirane.github.io
 blog.joway.io
 mabbs.github.io
@@ -155,6 +153,7 @@ www.zhukang.tech
 nojsja.github.io
 itgoyo.github.io
 www.imaegoo.com
+eallion.com
 gtdstudy.com
 www.jiayuehua.com
 github.com
@@ -226,3 +225,4 @@ youkaichao.github.io
 zhaochenyang20.github.io
 jia.je
 songhaozhi.com
+wanghuibin0.github.io
