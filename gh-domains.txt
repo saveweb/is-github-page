@@ -16,6 +16,7 @@ wsgzao.github.io
 vivaxyblog.github.io
 www.yinwang.org
 blog.xiayf.cn
+hufangyun.com
 jiongks.name
 blog.devtang.com
 colobu.com
@@ -141,7 +142,6 @@ vim0.com
 sanzo.top
 www.bodunhu.com
 blog.quarticcat.com
-zkpeace.com
 weepingdogel.github.io
 ioerr.github.io
 f2h2h1.github.io
@@ -173,7 +173,6 @@ jtr109.com
 lifeodyssey.github.io
 husay.cc
 vfvong.blog
-www.linlinzzo.top
 xieguanglei.github.io
 xuetengfei.github.io
 leimao.github.io
@@ -197,6 +196,7 @@ bestxtools.github.io
 yongchin.xyz
 hukeqing.github.io
 www.imalun.com
+www.informal.top
 pinkr1ver.com
 brightliao.com
 allanware.github.io
