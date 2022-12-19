@@ -29,6 +29,7 @@ jalan.space
 nicksxs.me
 www.capallen.top
 alxddh.github.io
+livid.v2ex.com
 charlesliuyx.github.io
 blog.xulihang.me
 102no.com
@@ -81,6 +82,7 @@ chinomars.github.io
 weirane.github.io
 blog.joway.io
 mabbs.github.io
+rapiz.me
 earture.org
 blog.vvzero.com
 sund.site
@@ -130,7 +132,6 @@ bouquetrender.github.io
 zhangyet.github.io
 aidaip.github.io
 blog.whuzfb.cn
-frankorz.com
 noionion.top
 zeqiang.fun
 blog.jinreal.com
@@ -176,7 +177,6 @@ xieguanglei.github.io
 xuetengfei.github.io
 leimao.github.io
 muyesq.cn
-zahui.fan
 conge.github.io
 gh0st.cn
 blog.zjun.info
@@ -232,3 +232,5 @@ mark24code.github.io
 blog.l0v0.com
 bili33.top
 yuzhang.wang
+blackholemax.github.io
+dabaizuihei.github.io
