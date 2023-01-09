@@ -83,7 +83,6 @@ weirane.github.io
 blog.joway.io
 mabbs.github.io
 rapiz.me
-earture.org
 blog.vvzero.com
 sund.site
 tomotoes.com
@@ -207,7 +206,6 @@ blog.azhubaby.com
 face2ai.com
 jerkwin.github.io
 draugus.github.io
-hetaoblog.site
 hehysh.github.io
 coffeelize.top
 chestnutheng.cn
@@ -234,3 +232,7 @@ yuzhang.wang
 blackholemax.github.io
 dabaizuihei.github.io
 blog.jimmyisme.top
+blog.huangfusl.net
+blog.canyie.top
+weishu.me
+fatedeity.cn
