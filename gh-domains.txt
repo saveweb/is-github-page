@@ -236,3 +236,5 @@ blog.huangfusl.net
 blog.canyie.top
 weishu.me
 fatedeity.cn
+lmmsoft.github.io
+www.ahianzhang.com
