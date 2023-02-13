@@ -5,6 +5,7 @@ droidyue.com
 vzardlloo.github.io
 rowkey.cn
 blog.lui8.cn
+hundren.github.io
 toweave.github.io
 dumplingbao.github.io
 chai2010.cn
@@ -147,6 +148,7 @@ f2h2h1.github.io
 www.4async.com
 aemoncao.github.io
 marwin.cn
+acmic.top
 dianjiaogit.github.io
 www.zhukang.tech
 nojsja.github.io
@@ -244,3 +246,5 @@ www.yigegongjiang.com
 blog.epicanecdotes.games
 dsy4567.github.io
 fiftysixtimes7.github.io
+blog.michealwayne.cn
+hexo.whtli.cn
