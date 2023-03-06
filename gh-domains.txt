@@ -60,7 +60,6 @@ huiweishijie.com
 www.itbob.cn
 xiaophy.com
 michael728.github.io
-leiquan.website
 fengxu.ink
 scottyeung.top
 mazhuang.org
@@ -72,7 +71,6 @@ blog.mikeoperfect.com
 notlsd.github.io
 beijiu.ink
 seis-jun.xyz
-jw1.dev
 jartto.wang
 knightyun.github.io
 www.yangzhiping.com
@@ -198,7 +196,6 @@ hukeqing.github.io
 www.informal.top
 www.226yzy.com
 pinkr1ver.com
-www.sakurawald.com
 brightliao.com
 allanware.github.io
 ursb.me
@@ -254,3 +251,4 @@ www.sekyoro.top
 aikenh.cn
 orechou.live
 miaohn.github.io
+puming.zone
