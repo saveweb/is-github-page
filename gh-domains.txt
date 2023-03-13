@@ -151,8 +151,6 @@ dianjiaogit.github.io
 www.zhukang.tech
 nojsja.github.io
 itgoyo.github.io
-www.imaegoo.com
-eallion.com
 gtdstudy.com
 www.jiayuehua.com
 github.com
@@ -252,3 +250,5 @@ aikenh.cn
 orechou.live
 miaohn.github.io
 puming.zone
+breakinglead.github.io
+lxb.wiki
