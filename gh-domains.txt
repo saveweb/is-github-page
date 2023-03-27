@@ -136,7 +136,6 @@ surager.pub
 iaarwu.github.io
 vim0.com
 sanzo.top
-www.bodunhu.com
 blog.quarticcat.com
 zkpeace.com
 weepingdogel.github.io
@@ -193,6 +192,7 @@ hukeqing.github.io
 www.informal.top
 www.226yzy.com
 pinkr1ver.com
+sakurawald.github.io
 brightliao.com
 allanware.github.io
 ursb.me
