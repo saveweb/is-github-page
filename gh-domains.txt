@@ -81,6 +81,7 @@ weirane.github.io
 blog.joway.io
 mabbs.github.io
 rapiz.me
+earture.org
 blog.vvzero.com
 sund.site
 tomotoes.com
@@ -244,7 +245,6 @@ fiftysixtimes7.github.io
 blog.michealwayne.cn
 hexo.whtli.cn
 xiaoa.name
-www.sekyoro.top
 aikenh.cn
 orechou.live
 miaohn.github.io
@@ -253,3 +253,4 @@ breakinglead.github.io
 lxb.wiki
 yanyue404.github.io
 suiyan.cc
+blog.darrenzzy.cn
