@@ -114,6 +114,7 @@ tingfei.space
 bubuzou.com
 jasonkayzk.github.io
 muyunyun.cn
+shenyongfan.com
 blog.mayandev.top
 timemachine.icu
 blog.kuangjux.top
@@ -255,3 +256,6 @@ yanyue404.github.io
 suiyan.cc
 blog.darrenzzy.cn
 kexizeroing.github.io
+blog.alswl.com
+fallen.wang
+great-jin.github.io
