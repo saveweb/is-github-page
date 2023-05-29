@@ -29,7 +29,6 @@ blog.est.im
 jaredtao.github.io
 jalan.space
 nicksxs.me
-www.capallen.top
 alxddh.github.io
 livid.v2ex.com
 charlesliuyx.github.io
@@ -178,7 +177,6 @@ gh0st.cn
 blog.zjun.info
 frangezone.github.io
 catcoding.me
-hdgcs.com
 nickchenyx.github.io
 blog.spacetimee.xyz
 jieran233.github.io
