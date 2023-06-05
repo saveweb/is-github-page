@@ -29,6 +29,7 @@ blog.est.im
 jaredtao.github.io
 jalan.space
 nicksxs.me
+www.capallen.top
 alxddh.github.io
 livid.v2ex.com
 charlesliuyx.github.io
@@ -254,6 +255,8 @@ yanyue404.github.io
 suiyan.cc
 blog.darrenzzy.cn
 kexizeroing.github.io
+weaxsey.org
 blog.alswl.com
 fallen.wang
 great-jin.github.io
+trudbot.cn
