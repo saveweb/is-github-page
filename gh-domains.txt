@@ -115,6 +115,7 @@ bubuzou.com
 jasonkayzk.github.io
 muyunyun.cn
 shenyongfan.com
+www.androidperformance.com
 blog.mayandev.top
 timemachine.icu
 blog.kuangjux.top
@@ -178,6 +179,7 @@ gh0st.cn
 blog.zjun.info
 frangezone.github.io
 catcoding.me
+hdgcs.com
 nickchenyx.github.io
 blog.spacetimee.xyz
 jieran233.github.io
@@ -252,6 +254,7 @@ puming.zone
 breakinglead.github.io
 lxb.wiki
 yanyue404.github.io
+wangxiansen.top
 suiyan.cc
 blog.darrenzzy.cn
 kexizeroing.github.io
@@ -260,3 +263,4 @@ blog.alswl.com
 fallen.wang
 great-jin.github.io
 trudbot.cn
+xiaochopin.github.io
