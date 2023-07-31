@@ -163,7 +163,6 @@ www.packetmania.net
 shellc.cn
 fengmengzhao.github.io
 blog.lzwi.fun
-www.izhaoo.com
 jdhao.github.io
 icys.top
 zhul.in
@@ -256,6 +255,7 @@ yanyue404.github.io
 wangxiansen.top
 suiyan.cc
 blog.darrenzzy.cn
+aiktb.com
 kexizeroing.github.io
 weaxsey.org
 blog.alswl.com
