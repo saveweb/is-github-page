@@ -27,7 +27,6 @@ blog.sunnyxx.com
 wwj718.github.io
 blog.est.im
 jaredtao.github.io
-jalan.space
 nicksxs.me
 www.capallen.top
 alxddh.github.io
@@ -236,6 +235,7 @@ weishu.me
 fatedeity.cn
 lmmsoft.github.io
 www.ahianzhang.com
+notes.cerallin.top
 ycao.top
 www.longluo.me
 hotarugali.github.io
@@ -265,3 +265,4 @@ xiaochopin.github.io
 xijingxu.blog
 www.moonkite.cn
 www.helloseraphine.top
+
