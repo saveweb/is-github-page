@@ -267,3 +267,6 @@ xijingxu.blog
 www.moonkite.cn
 www.helloseraphine.top
 
+blog.krysztal.dev
+christianpoet.github.io
+yanyuteng.github.io
