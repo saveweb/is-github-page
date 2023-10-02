@@ -137,7 +137,6 @@ surager.pub
 iaarwu.github.io
 vim0.com
 sanzo.top
-www.bodunhu.com
 blog.quarticcat.com
 zkpeace.com
 weepingdogel.github.io
@@ -272,3 +271,4 @@ blog.krysztal.dev
 christianpoet.github.io
 yanyuteng.github.io
 lihan3238.github.io
+blog.bao-feng.top
