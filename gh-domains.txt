@@ -145,6 +145,7 @@ f2h2h1.github.io
 www.4async.com
 aemoncao.github.io
 marwin.cn
+www.nosuchfield.com
 acmic.top
 dianjiaogit.github.io
 www.zhukang.tech
@@ -271,4 +272,3 @@ blog.krysztal.dev
 christianpoet.github.io
 yanyuteng.github.io
 lihan3238.github.io
-blog.bao-feng.top
