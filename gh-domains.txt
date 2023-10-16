@@ -11,6 +11,7 @@ dumplingbao.github.io
 chai2010.cn
 www.cnfeat.com
 hawstein.com
+www.chenshake.com
 www.barretlee.com
 www.jeffjade.com
 wsgzao.github.io
@@ -81,11 +82,9 @@ weirane.github.io
 blog.joway.io
 mabbs.github.io
 rapiz.me
-earture.org
 blog.vvzero.com
 sund.site
 tomotoes.com
-hwchiu.com
 thewanderingpotato.github.io
 ai.renyuzhuo.cn
 jayzangwill.github.io
@@ -186,7 +185,6 @@ shiina18.github.io
 shicheng.cool
 blog.moeif.com
 lishuangquan.cn
-megamu.icu
 liupj.top
 vra.github.io
 bestxtools.github.io
@@ -255,6 +253,7 @@ lxb.wiki
 yanyue404.github.io
 wangxiansen.top
 www.lamber.life
+qingwan.top
 suiyan.cc
 blog.darrenzzy.cn
 aiktb.com
