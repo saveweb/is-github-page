@@ -132,7 +132,6 @@ blog.whuzfb.cn
 noionion.top
 zeqiang.fun
 blog.jinreal.com
-mengtnt.com
 surager.pub
 iaarwu.github.io
 vim0.com
@@ -144,7 +143,6 @@ ioerr.github.io
 f2h2h1.github.io
 www.4async.com
 aemoncao.github.io
-marwin.cn
 www.nosuchfield.com
 acmic.top
 dianjiaogit.github.io
@@ -206,7 +204,6 @@ jerkwin.github.io
 hehysh.github.io
 coffeelize.top
 chestnutheng.cn
-zhongkui.org
 dorck.cn
 yanhaijing.com
 www.zhangningle.top
@@ -266,10 +263,8 @@ great-jin.github.io
 xiaochopin.github.io
 xijingxu.blog
 www.moonkite.cn
-qiu.se
 www.helloseraphine.top
 
-blog.krysztal.dev
 christianpoet.github.io
 yanyuteng.github.io
 lihan3238.github.io
