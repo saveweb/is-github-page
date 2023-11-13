@@ -16,7 +16,6 @@ www.barretlee.com
 www.jeffjade.com
 wsgzao.github.io
 vivaxyblog.github.io
-www.debuginn.cn
 www.yinwang.org
 blog.xiayf.cn
 hufangyun.com
@@ -175,7 +174,6 @@ gh0st.cn
 blog.zjun.info
 frangezone.github.io
 catcoding.me
-hdgcs.com
 nickchenyx.github.io
 blog.spacetimee.xyz
 jieran233.github.io
@@ -254,7 +252,6 @@ www.lamber.life
 qingwan.top
 suiyan.cc
 blog.darrenzzy.cn
-aiktb.com
 kexizeroing.github.io
 weaxsey.org
 blog.alswl.com
@@ -268,5 +265,7 @@ www.helloseraphine.top
 christianpoet.github.io
 yanyuteng.github.io
 lihan3238.github.io
+blog.bao-feng.top
 xnum.github.io
 leilie.top
+luviichann.top
