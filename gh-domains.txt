@@ -18,7 +18,6 @@ wsgzao.github.io
 vivaxyblog.github.io
 www.yinwang.org
 blog.xiayf.cn
-hufangyun.com
 jiongks.name
 blog.devtang.com
 colobu.com
@@ -60,7 +59,6 @@ huiweishijie.com
 www.itbob.cn
 xiaophy.com
 michael728.github.io
-fengxu.ink
 scottyeung.top
 mazhuang.org
 hijiangtao.github.io
@@ -89,7 +87,6 @@ ai.renyuzhuo.cn
 jayzangwill.github.io
 yanhang.me
 frost-lee.github.io
-kerminate.me
 blog.chungzh.cn
 lineuman.github.io
 zsqk.github.io
@@ -174,6 +171,7 @@ gh0st.cn
 blog.zjun.info
 frangezone.github.io
 catcoding.me
+hdgcs.com
 nickchenyx.github.io
 blog.spacetimee.xyz
 jieran233.github.io
@@ -241,7 +239,6 @@ blog.michealwayne.cn
 hexo.whtli.cn
 xiaoa.name
 aikenh.cn
-orechou.live
 miaohn.github.io
 puming.zone
 breakinglead.github.io
