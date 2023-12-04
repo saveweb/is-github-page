@@ -139,7 +139,6 @@ ioerr.github.io
 f2h2h1.github.io
 www.4async.com
 aemoncao.github.io
-marwin.cn
 www.nosuchfield.com
 acmic.top
 dianjiaogit.github.io
@@ -266,3 +265,4 @@ lihan3238.github.io
 xnum.github.io
 leilie.top
 luviichann.top
+reserve2freedom.github.io
