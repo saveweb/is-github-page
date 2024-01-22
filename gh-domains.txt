@@ -70,6 +70,7 @@ blog.mikeoperfect.com
 notlsd.github.io
 beijiu.ink
 seis-jun.xyz
+wangxin.io
 jartto.wang
 knightyun.github.io
 www.yangzhiping.com
@@ -212,7 +213,7 @@ youkaichao.github.io
 zhaochenyang20.github.io
 jia.je
 songhaozhi.com
-wanghuibin0.github.io
+simplecoding.fun
 mark24code.github.io
 blog.l0v0.com
 bili33.top
@@ -259,6 +260,7 @@ www.helloseraphine.top
 christianpoet.github.io
 yanyuteng.github.io
 lihan3238.github.io
+blog.bao-feng.top
 xnum.github.io
 leilie.top
 luviichann.top
@@ -267,3 +269,4 @@ reserve2freedom.github.io
 www.fwqaq.us
 duanmourena.github.io
 www.zl-asica.com
+blog.zhangyingwei.com
