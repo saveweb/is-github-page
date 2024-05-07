@@ -41,6 +41,9 @@ def check_domain(domain: str, resolver: dns.resolver.Resolver, pages_ip: list):
             logger.debug(
                 f"All nameservers failed to answer the query {domain}")
             continue
+        except dns.resolver.NXDOMAIN:
+            logger.debug(f"{domain} does not exist")
+            continue
 
         for answer in answers.rrset:
             if rdtype in ["A", "AAAA"]:
